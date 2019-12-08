@@ -1,0 +1,14 @@
+# Project Proposal
+
+# Name : Ramesh Kumar Sah (11632214)
+# Title : Human Activity Recognition using Recurrent Neural Network
+
+# My research as a Ph.D. student involves working with sensor data to design and build 
+algorithms for health care. In the class today I was intriguied by the temporal property of RNN 
+algorithms which considers the data value at time t-1 when assessing the data value at time t. 
+This led me to think about using RNN for human activity classification because the time series data
+from different sensor also has temporal component in it. 
+
+Specifically, I want to use a RNN algorithm for human activity classification and compare its 
+performance with other machine learning techniques such as CNN and DNN. Also, if I have time left
+I would also want to explore the idea of adversarial examples in the context of RNN.
